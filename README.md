@@ -4,7 +4,7 @@
 * Cài đặt thông số LORA qua USB to COM.
 
 ## DEMO mạch
-![img1]()
+![img1](https://img.upanh.tv/2022/11/04/doacquy.jpg)
 
 
 ## Liên hệ
